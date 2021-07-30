@@ -1,14 +1,14 @@
 # Toastmasters-meeting
 Rules to follow while joining a meet :
-1.Don't unmute yourself till ur the speaker .
-2.Take responsibility about sex,region and politics.
-3.After the final hearing not forget to get a round of applause .
-4.keep the camera on in the meeting .
-5.Take the chance to speak so that your communication skills will be improved.
+1.Don't unmute yourself till ur the speaker
+2.Take responsibility about sex,region and politics
+3.After the final hearing not forget to get a round of applause 
+4.keep the camera on in the meeting 
+5.Take the chance to speak so that your communication skills will be improved
 
-#Theme of meet is :
+   #Theme of meet is :
 "** LIFE IS A POLE OF 50-50 CHANCE**"
-yin & yang concept: "DARK AND LIGHT","SUN AND MOON","MALE AND FEMALE","GOOD AND BAD"
+   yin & yang concept: "DARK AND LIGHT","SUN AND MOON","MALE AND FEMALE","GOOD AND BAD"
  $$ SHOT IN THE DARK" 
  
  Three section :
@@ -16,8 +16,8 @@ yin & yang concept: "DARK AND LIGHT","SUN AND MOON","MALE AND FEMALE","GOOD AND 
  2. Table topic session in this speaker speaks for 1-2 minutes.
  3. General evalution session  here full evalution takes place .
     
-  Timmer:
-  Records the timming of the speach of the speaker .
+     Timmer:
+     Records the timming of the speach of the speaker .
   shows green colour for 5-minutes speach ✅
   shows yellow  colour for 6-minutes speach 🟨
   shows red colour for 7-minutes speach 🟥
