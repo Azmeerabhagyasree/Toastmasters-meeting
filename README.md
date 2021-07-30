@@ -1,11 +1,9 @@
 # Toastmasters-meeting
 Rules to follow while joining a meet:
-
-•Don't unmute ur self untill ur the speaker
-•Take responsibility about sex,region and politics
-•After the final hearing not forget to get a round of applause 
---4.keep the camera on in the meeting 
---5.Take the chance to speak so that your communication skills will be improved
+•Don't unmute ur self untill ur the speaker.
+•Take responsibility about sex,region and politics.
+•After the final hearing not forget to get a round of applause keep the camera on in the meeting .
+•Take the chance to speak so that your communication skills will be improved
 
    #Theme of meet is :
 "** LIFE IS A POLE OF 50-50 CHANCE**"
