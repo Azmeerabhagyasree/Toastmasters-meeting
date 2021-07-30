@@ -48,8 +48,7 @@ yin & yang concept: "DARK AND LIGHT","SUN AND MOON","MALE AND FEMALE","GOOD AND 
  then 
  General evalution session :
  
- ![image](https://user-images.githubusercontent.com/85113970/127634290-905eaba6-85c7-4b72-bea4-ce3c3cbf31ca.png)
-![image](https://user-images.githubusercontent.com/85113970/127634407-9b521f17-13ef-4bff-88ba-a41a6ab0e2b4.png)
+
 
  
   
