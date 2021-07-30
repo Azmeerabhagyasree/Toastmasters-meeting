@@ -1,10 +1,10 @@
 # Toastmasters-meeting
-Rules to follow while joining a meet :
-1.Don't unmute yourself till ur the speaker
-2.Take responsibility about sex,region and politics
-3.After the final hearing not forget to get a round of applause 
-4.keep the camera on in the meeting 
-5.Take the chance to speak so that your communication skills will be improved
+Rules to follow while joining a meet:
+--1.Don't unmute ur self untill ur the speaker
+--2.Take responsibility about sex,region and politics
+--3.After the final hearing not forget to get a round of applause 
+--4.keep the camera on in the meeting 
+--5.Take the chance to speak so that your communication skills will be improved
 
    #Theme of meet is :
 "** LIFE IS A POLE OF 50-50 CHANCE**"
@@ -12,9 +12,9 @@ Rules to follow while joining a meet :
  $$ SHOT IN THE DARK" 
  
  Three section :
- 1. each speaker is going to speak for 5-7 minutes.
- 2. Table topic session in this speaker speaks for 1-2 minutes.
- 3. General evalution session  here full evalution takes place .
+ -1. each speaker is going to speak for 5-7 minutes.
+ -2. Table topic session in this speaker speaks for 1-2 minutes.
+ -3. General evalution session  here full evalution takes place .
     
      Timmer:
      Records the timming of the speach of the speaker .
@@ -23,15 +23,15 @@ Rules to follow while joining a meet :
   shows red colour for 7-minutes speach 🟥
   
   for evaluator same 
-  2 minutes for green✅
-  2:30 minutes for yellow🟨
-  3 minutes for red🟥
+ -- 2 minutes for green✅
+  --2:30 minutes for yellow🟨
+ -- 3 minutes for red🟥
   
-  Ah-counter:
+  *Ah-counter:
   they will count the unnecessary sounds like ah,ur,so etc .
-  Grammarian:
+ * Grammarian:
   they will write the good usage and bad usage of words.
-  Listner:
+  *Listner:
   they will listen and ask questions at the end .
   
  **  the new toastmasters will speak and the importance of the mentors in their life***
