@@ -62,7 +62,7 @@ AH counter report:
 ![image](https://user-images.githubusercontent.com/85113970/127639360-c69d4ec5-7d5e-4681-8f93-148f0fb2bb1a.png)
 ![image](https://user-images.githubusercontent.com/85113970/127639398-704741c0-f16c-4f28-9b85-aad545b93c3d.png)       
 
-finally the end of the meeting...........
+finally the end of the meeting........
 
  
 
